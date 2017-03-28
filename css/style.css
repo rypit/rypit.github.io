@@ -6,12 +6,11 @@ a {
   text-decoration: underline;
 }
 
-
 #rj {
  background: url(../images/rj-2.jpg);
  background-size: cover;
  background-repeat: no-repeat;
- background-position: center 38.2%;
+ background-position: 0 38.2%;
  width: 100%;
  min-height: 630px;
 }
